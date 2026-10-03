@@ -1,6 +1,6 @@
 {
   "esquema": 1,
-  "generado": "2026-10-01",
+  "generado": "2026-10-03",
   "app": {
     "version": "",
     "mensaje": "",
@@ -28,8 +28,8 @@
       "uvt": 52374,
       "smmlv": 1750905,
       "tarifa_pj": 0.35,
-      "verificado": false,
-      "nota": "UVT Res. DIAN 000238/2025. SMMLV Dec. transitorio 0159/2026 (Dec. 1469/2025 suspendido): confirmar fallo. Formulario AG 2026 aún no prescrito"
+      "verificado": true,
+      "nota": "UVT Res. DIAN 000238/2025. SMMLV Dec. 1469/2025 ($1.750.905) vigente: el Consejo de Estado revocó (jul-2026) la suspensión provisional del 12-feb-2026 y el proceso de fondo continúa; el Dec. transitorio 0159/2026 fijó el mismo valor. Formulario AG 2026 aún no prescrito"
     }
   ],
   "calendarios": {
@@ -806,7 +806,7 @@
           "digito": 5,
           "cuotas": [
             "2026-02-16",
-            "2026-04-17",
+            "2026-04-20",
             "2026-06-17"
           ]
         },
@@ -814,7 +814,7 @@
           "digito": 6,
           "cuotas": [
             "2026-02-17",
-            "2026-04-20",
+            "2026-04-21",
             "2026-06-18"
           ]
         },
@@ -822,7 +822,7 @@
           "digito": 7,
           "cuotas": [
             "2026-02-18",
-            "2026-04-21",
+            "2026-04-22",
             "2026-06-19"
           ]
         },
@@ -830,7 +830,7 @@
           "digito": 8,
           "cuotas": [
             "2026-02-19",
-            "2026-04-22",
+            "2026-04-23",
             "2026-06-22"
           ]
         },
@@ -838,7 +838,7 @@
           "digito": 9,
           "cuotas": [
             "2026-02-20",
-            "2026-04-23",
+            "2026-04-24",
             "2026-06-23"
           ]
         },
@@ -846,14 +846,14 @@
           "digito": 0,
           "cuotas": [
             "2026-02-23",
-            "2026-04-24",
+            "2026-04-27",
             "2026-06-24"
           ]
         }
       ],
       "verificado": true,
-      "grandes_verificado": false,
-      "fuente": "Dec. 2229/2023 (calendario 2026)"
+      "grandes_verificado": true,
+      "fuente": "Dec. 2229/2023 (calendario 2026); grandes contribuyentes cuota 2 dígitos 5-0 desplazada un día hábil por día cívico del 17-abr-2026 (Dec. 500/2024), según DIAN"
     }
   }
 }
